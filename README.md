@@ -1,2 +1,2 @@
 # vue-sb
-Vuetify with Storbook integration
+Vuetify with Storybook integration
